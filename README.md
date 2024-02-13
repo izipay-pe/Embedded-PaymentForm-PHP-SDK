@@ -1,4 +1,4 @@
-﻿# Embedded-PaymentForm-PHP-Sdk
+﻿# Embedded-PaymentForm-PHP-SDK
 
 ## Índice
 
