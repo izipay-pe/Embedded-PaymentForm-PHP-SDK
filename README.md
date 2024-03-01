@@ -47,7 +47,7 @@ Xampp, servidor web local multiplataforma que contiene los intérpretes para los
 3. Inicia los servicios de Apache desde el panel de control de XAMPP.
 
 <p align="center">
-  <img src="images/panel-control.png" alt="Formulario" />
+  <img src="https://raw.githubusercontent.com/izipay-pe/PopIn-PaymentForm-PHP/main/images/panel-control.png" alt="Xampp" />
 </p>
 
 
